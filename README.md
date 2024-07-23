@@ -28,6 +28,14 @@ The primary goals of this project are as follows:
 
 * Enhanced Reporting: Improved reporting capabilities by integrating dynamic visuals and real-time data updates.
 
+# Example Graphs & Diagrams: 
+
+![power_BI_image_1](https://github.com/user-attachments/assets/0c049895-1d0a-477c-be03-ee3843ed83a0)
+![power_BI_image_2](https://github.com/user-attachments/assets/146dc3b1-878a-48d7-abb5-d49737359af8)
+![power_BI_image_4](https://github.com/user-attachments/assets/0e9ca62d-b417-4c8c-a030-02769bc37a90)
+![power_BI_image_3](https://github.com/user-attachments/assets/cb0a9cf3-28b5-4288-bcdb-4ef3e77c782d)
+
+
 # Results
 
 * Increased Sales Visibility: Enhanced visibility into sales data, allowing for more informed decision-making.
@@ -61,6 +69,14 @@ Die Hauptziele dieses Projekts sind wie folgt:
 * Datengenauigkeit: Gewährleistung der Datengenauigkeit und Zuverlässigkeit durch gründliche Datenbereinigungs- und Transformationsprozesse.
 * Benutzerfreundliche Oberfläche: Gestaltung einer benutzerfreundlichen Oberfläche, die es Interessengruppen ermöglicht, die Daten einfach zu navigieren und zu interpretieren.
 * Erweiterte Berichterstellung: Verbesserung der Berichterstattungsfähigkeiten durch Integration dynamischer Visualisierungen und Echtzeit-Datenaktualisierungen.
+
+# Beispielgrafiken und Diagramme:
+
+![power_BI_image_1](https://github.com/user-attachments/assets/0c049895-1d0a-477c-be03-ee3843ed83a0)
+![power_BI_image_2](https://github.com/user-attachments/assets/146dc3b1-878a-48d7-abb5-d49737359af8)
+![power_BI_image_4](https://github.com/user-attachments/assets/0e9ca62d-b417-4c8c-a030-02769bc37a90)
+![power_BI_image_3](https://github.com/user-attachments/assets/cb0a9cf3-28b5-4288-bcdb-4ef3e77c782d)
+
 
 ## Ergebnisse
 
